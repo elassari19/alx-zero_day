@@ -1,1 +1,1 @@
-zero day alx
+zero day
